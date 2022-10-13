@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://david-pinhasov.github.io/Clipboard-Landing-Page/)
 
 
 ### Built with
